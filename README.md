@@ -50,8 +50,8 @@ All methods use the same **RR17 CNN (17-layer ResNet-like architecture)** for fa
 ### Steps
 ```bash
 # Clone the repository
-git clone https://github.com/<username>/RR17-BrainTumor-Classifier.git
-cd RR17-BrainTumor-Classifier
+git clone https://github.com/shahram8708/RR17-Brain-Tumor-Classifier-Ensemble-vs-PCA-vs-LDA.git
+cd RR17-Brain-Tumor-Classifier-Ensemble-vs-PCA-vs-LDA
 
 # Install dependencies
 pip install -r requirements.txt
